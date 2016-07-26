@@ -1,0 +1,2 @@
+This repository contains Kevin Burleigh's presentation 'Fundamentals of Object Oriented Design'. He gave this presentation on July 26, 2016 for GDG-Houston.
+The presentation covers a brief history of OO, SOLID principles (mostly Liskov, DIP and OPC), law of Demeter, Strategy pattern, Observer pattern, among a few other topics.
